@@ -6,7 +6,7 @@ I am a senior front-end engineer with 7 years of experience, currently building 
 🌐 **Portfolio:** [rimildeyjsr.com](https://rimildeyjsr.com)
 
 
-🚧 **Currently working on:** [photo-restorer](https://photo-restorer-rimildeyjsrs-projects.vercel.app/)
+🚧 **Currently working on:** [photo-restorer](https://photo-restorer-rimildeyjsrs-projects.vercel.app/) an AI-powered tool for image restoration
 
 
 ## 🔥 Open Source Contributions
