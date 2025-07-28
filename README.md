@@ -6,6 +6,8 @@ A **Senior Front-End Engineer** specializing in React, TypeScript, and modern we
 🌐 **Portfolio:** [rimildeyjsr.com](https://rimildeyjsr.com)
 
 
+🚧 **Currently working on:** [photo-restorer](https://photo-restorer-rimildeyjsrs-projects.vercel.app/)
+
 
 ## 🔥 Open Source Contributions
 
