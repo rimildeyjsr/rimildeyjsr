@@ -1,6 +1,6 @@
 ## Hi there, I'm Rimil 👋
 
-A **Senior Front-End Engineer** specializing in React, TypeScript, and modern web development. Currently building financial products at Deel!
+I am a senior front-end engineer with 7 years of experience, currently building financial products at Deel. I’ve delivered several impactful and innovative products using React & Angular.
 
 
 🌐 **Portfolio:** [rimildeyjsr.com](https://rimildeyjsr.com)
