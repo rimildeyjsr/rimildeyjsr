@@ -1,6 +1,6 @@
 ## Hi there, I'm Rimil 👋
 
-I am a senior front-end engineer with 7 years of experience, currently building financial products at Deel. I’ve delivered several impactful and innovative products using React & Angular.
+’m a senior front-end engineer with 7 years of experience, currently building financial products at Deel. I’ve delivered several impactful and innovative products using React and Angular. Recently, I’ve been exploring full-stack development and AI-powered tools, enjoying how accessible it’s become to build complete applications.
 
 
 🌐 **Portfolio:** [rimildeyjsr.com](https://rimildeyjsr.com)
